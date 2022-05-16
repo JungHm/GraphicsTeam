@@ -35,3 +35,4 @@
 ## 참고문헌
 - [모델 생성 사이트](https://teachablemachine.withgoogle.com)
 - [모델 생성 유튜브](https://www.youtube.com/watch?v=URbWejtxK1Q)
+- [전이학습 설명 LG CNS](https://blog.lgcns.com/1563)
