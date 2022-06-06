@@ -43,7 +43,7 @@
 ## 결과물
 
 ### 결과물
-![Youtube Link]([https://user-images.githubusercontent.com/21167914/169949614-82735c72-9091-409d-8c86-996a1f66f3c4.png](https://www.youtube.com/watch?v=3krB6IT3RIU))
+![Youtube Link](https://www.youtube.com/watch?v=3krB6IT3RIU)
 
 
 
