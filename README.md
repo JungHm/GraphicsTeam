@@ -43,7 +43,7 @@
 ## 결과물
 
 ### 결과물
-![Youtube Link](https://www.youtube.com/watch?v=3krB6IT3RIU)
+[Youtube Link](https://www.youtube.com/watch?v=3krB6IT3RIU)
 
 
 
